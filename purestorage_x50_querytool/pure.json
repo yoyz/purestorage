@@ -1,0 +1,9 @@
+{
+  "FlashArrays": [
+    {
+      "MgmtEndPoint": "10.1.2.3",
+      "APIToken": "a4721654-f4e3-846d-463e-dc1349ef4213",
+      "APIVersion": "2.50"
+    }
+  ]
+}
